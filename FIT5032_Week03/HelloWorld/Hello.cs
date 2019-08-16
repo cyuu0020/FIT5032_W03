@@ -8,7 +8,7 @@ namespace FIT5032_Week03.HelloWorld
     {
         public String GetHello()
         {
-            return "Hello World!";
+            return "Hello World!!";
         }
     }
 }
